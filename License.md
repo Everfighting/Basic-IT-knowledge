@@ -1,4 +1,4 @@
-# common-knowledge-
+#Licenses
 
 ![](http://image.beekka.com/blog/201105/bg2011050101.png)
 
@@ -78,7 +78,9 @@ MIT是和BSD一样宽范的许可协议,作者只想保留版权,而无任何其
 
 
 -------
+
 参考来源：
+
 1、http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html
 2、http://www.awflasher.com/blog/archives/939
 
