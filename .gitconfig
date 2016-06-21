@@ -1,0 +1,16 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	required = true
+[user]
+	name = Everfighting
+[user]
+	email = cbb903601682@163.com
+[color]
+	ui = true
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	g = git
