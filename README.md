@@ -1,2 +1,2 @@
 # common-knowledge
-common knowledge on Internet
+common knowledge on CS
