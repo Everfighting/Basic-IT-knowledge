@@ -1,8 +1,14 @@
 # common-knowledge
 common knowledge on CS
 
-- 001License
-    The differences of opensource license.
+- 001开源版本
 
-- 002Regex
-    The concepts and usage of regex expression.
+        不同开源版本的差异。
+
+- 002正则表达式
+
+        正则表达式概念和用法。
+
+- 003linux
+
+        linux常用命令用法整理。
