@@ -6,3 +6,4 @@ common knowledge on CS
 - 003linux常用命令用法整理。
 - 004常用网络操作命令。
 - 005面向对象的基本概念。
+- 006HTTP请求方法介绍。
