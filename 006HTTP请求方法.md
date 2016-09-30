@@ -87,4 +87,4 @@ HTTP客户端会根据需要构建合适的HTTP请求方法，而HTTP服务器�
         当资源不存在时，PATCH会创建一个新的资源，而PUT只会对已在资源进行更新。
 
 
-   z注：转自http://itbilu.com/other/relate/EkwKysXIl.html
+   注：转自http://itbilu.com/other/relate/EkwKysXIl.html
